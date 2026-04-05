@@ -36,6 +36,19 @@ class BST:
                         return
                     current = current.right
 
+    
+    #function to perform the search 
+    def search(self, value):
+        current = self.root
+        while current:
+            if value == current.value:
+                return True
+            elif value < current.value:
+                current = current.left
+            else:
+                current = current.right
+        return False
+
 # Create tree
 tree = BST()
 
@@ -49,11 +62,9 @@ tree.insert(12)
 tree.insert(18)
 
 
-
-
-
-
-
+# Search values
+print(tree.search(7))   
+print(tree.search(20)) 
 
 
 
