@@ -1,12 +1,15 @@
- for(var i =0;i<nums.length;i++){
-    var item = nums[i];   
-    for(var j=0; j < nums.length;j++){
-        var item2 = nums[j];
-        var sum = item + item2;
+
+from typing import List
+
+class Solution(object):
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        n = len(nums)
+        for i in range(n):
+            for j in range(i+1, n):
+                if nums[i] + nums[j] == target:
+                    return[i,j]
+        else:
+            return[]
+
+
         
-    if(sum === target ){
-      return [i,j];
-      
-    }
-  }
- }
