@@ -1,6 +1,6 @@
-1
-2class Solution:
-3    def isPalindrome(self, x: int) -> bool:
-4        original = str(x)
-5        reverse = original[::-1]
-6        return original == reverse
+1class Solution:
+2    def isPalindrome(self, x: int) -> bool:
+3        original = str(x)
+4        reverse = original[::-1]
+5        return original == reverse
+6
