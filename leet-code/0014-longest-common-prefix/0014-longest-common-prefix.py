@@ -1,3 +1,4 @@
+class Solution:
     def longestCommonPrefix(self, strs):
         """
         :type strs: List[str]
@@ -10,4 +11,4 @@
                 prefix.append(x[0])
             else:
                 break
-        return "".join(prefix) ```
+        return "".join(prefix)
