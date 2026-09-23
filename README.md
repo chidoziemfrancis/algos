@@ -219,57 +219,22 @@ When you're stuck, remember:
 
 # LeetCode Solutions
 
-Solutions are synced automatically by [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0). The topic index below is generated, so edit above this line only.
+All solutions live in [leet-code/](leet-code/). Each folder holds the problem statement and a Python solution.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/chidoziemfrancis/algos/tree/master/0053-maximum-subarray) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/chidoziemfrancis/algos/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0169-majority-element](https://github.com/chidoziemfrancis/algos/tree/master/0169-majority-element) |
-| [0347-top-k-frequent-elements](https://github.com/chidoziemfrancis/algos/tree/master/0347-top-k-frequent-elements) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/chidoziemfrancis/algos/tree/master/0053-maximum-subarray) |
-| [0169-majority-element](https://github.com/chidoziemfrancis/algos/tree/master/0169-majority-element) |
-| [0347-top-k-frequent-elements](https://github.com/chidoziemfrancis/algos/tree/master/0347-top-k-frequent-elements) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/chidoziemfrancis/algos/tree/master/0053-maximum-subarray) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/chidoziemfrancis/algos/tree/master/0121-best-time-to-buy-and-sell-stock) |
-## Hash Table
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/chidoziemfrancis/algos/tree/master/0169-majority-element) |
-| [0347-top-k-frequent-elements](https://github.com/chidoziemfrancis/algos/tree/master/0347-top-k-frequent-elements) |
-## Sorting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/chidoziemfrancis/algos/tree/master/0169-majority-element) |
-| [0347-top-k-frequent-elements](https://github.com/chidoziemfrancis/algos/tree/master/0347-top-k-frequent-elements) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/chidoziemfrancis/algos/tree/master/0169-majority-element) |
-| [0347-top-k-frequent-elements](https://github.com/chidoziemfrancis/algos/tree/master/0347-top-k-frequent-elements) |
-## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/chidoziemfrancis/algos/tree/master/0169-majority-element) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/chidoziemfrancis/algos/tree/master/0347-top-k-frequent-elements) |
-## Bucket Sort
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/chidoziemfrancis/algos/tree/master/0347-top-k-frequent-elements) |
-## Quickselect
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/chidoziemfrancis/algos/tree/master/0347-top-k-frequent-elements) |
-<!---LeetCode Topics End-->
+1. [Two Sum](leet-code/0001-two-sum/)
+2. [Reverse Integer](leet-code/0007-reverse-integer/)
+3. [Palindrome Number](leet-code/0009-palindrome-number/)
+4. [Roman to Integer](leet-code/0013-roman-to-integer/)
+5. [Longest Common Prefix](leet-code/0014-longest-common-prefix/)
+6. [Search Insert Position](leet-code/0035-search-insert-position/)
+7. [Group Anagrams](leet-code/0049-group-anagrams/)
+8. [Maximum Subarray](leet-code/0053-maximum-subarray/)
+9. [Plus One](leet-code/0066-plus-one/)
+10. [Best Time to Buy and Sell Stock](leet-code/0121-best-time-to-buy-and-sell-stock/)
+11. [Longest Consecutive Sequence](leet-code/0128-longest-consecutive-sequence/)
+12. [Majority Element](leet-code/0169-majority-element/)
+13. [Contains Duplicate](leet-code/0217-contains-duplicate/)
+14. [Valid Anagram](leet-code/0242-valid-anagram/)
+15. [Top K Frequent Elements](leet-code/0347-top-k-frequent-elements/)
+
+Synced with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
