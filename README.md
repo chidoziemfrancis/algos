@@ -238,3 +238,19 @@ All solutions live in [leet-code/](leet-code/). Each folder holds the problem st
 15. [Top K Frequent Elements](leet-code/0347-top-k-frequent-elements/)
 
 Synced with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chidoziemfrancis/algos/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chidoziemfrancis/algos/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chidoziemfrancis/algos/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+<!---LeetCode Topics End-->
