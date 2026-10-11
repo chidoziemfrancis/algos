@@ -17,7 +17,27 @@ public class Expense {
         this.amount = amount;
         this.category = category;
 }
-    //getters and setters 
+    //getters
 
-    
+    public int getId(){
+        return id;
+    }
+
+    public String getTitle(){
+        return title;
+    }
+
+    public String getDescription(){
+        return description;
+    }
+
+    public BigDecimal getAmount(){
+        return amount;
+    }
+
+    public ExpenseCategory getCategory(){
+        return category;
+    }
+
+    //setters 
 }
