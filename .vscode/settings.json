@@ -2,5 +2,8 @@
   "editor.inlineSuggest.enabled": false,
   "github.copilot.enable": {
     "*": false
-  }
+  },
+  "java.project.sourcePaths": [
+    "oop/expense-tracker"
+  ]
 }
