@@ -40,4 +40,35 @@ public class Expense {
     }
 
     //setters 
+
+        public void setDescription(String description) {
+
+        this.description = description;
+
+    }
+
+    public void setAmount(BigDecimal amount) {
+
+        this.amount = amount;
+
+    }
+
+    public void setCategory(ExpenseCategory category) {
+
+        this.category = category;
+
+    }
+
+    @Override 
+    public String toString(){
+        return "Expense ID: " + id
+
+            + "\nTitle: " + title
+
+            + "\nDescription: " + description
+
+            + "\nAmount: ₦" + amount.toPlainString()
+
+            + "\nCategory: " + category;
+    }
 }
