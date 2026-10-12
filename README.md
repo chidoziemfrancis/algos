@@ -244,10 +244,12 @@ Synced with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chidoziemfrancis/algos/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chidoziemfrancis/algos/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chidoziemfrancis/algos/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chidoziemfrancis/algos/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -265,4 +267,8 @@ Synced with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chidoziemfrancis/algos/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/chidoziemfrancis/algos/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
