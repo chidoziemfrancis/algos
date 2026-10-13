@@ -263,6 +263,7 @@ Synced with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chidoziemfrancis/algos/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/chidoziemfrancis/algos/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -271,4 +272,12 @@ Synced with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0).
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chidoziemfrancis/algos/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chidoziemfrancis/algos/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chidoziemfrancis/algos/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
